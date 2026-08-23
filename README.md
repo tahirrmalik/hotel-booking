@@ -69,4 +69,4 @@ The client-side interface is complete. The next phase involves transforming this
 
 [ ] User authentication & role-based dashboard (Guest vs. Admin)
 
-[ ] Secure payment gateway integration (Stripe / Mock Gateway)
+[ ] Secure payment gateway integration (Stripe / Mock Gateway
